@@ -1,16 +1,27 @@
-[![nyxion's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyxion-luna)](https://github.com/anuraghazra/github-readme-stats)
+#### who am I?
 
-<!--
-**nyxion-luna/nyxion-luna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hey 👋 :D! I'm nyxion! I'm a dev and I like to code stuff that I come up with.
+currently, I'm working on my [pmm updater program](https://github.com/nyxion-luna/pmm).
 
-Here are some ideas to get you started:
+[![readme card](https://github-readme-stats.vercel.app/api/pin/?username=nyxion-luna&repo=pmm&theme=catppuccin_mocha&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+languages I know:
+
+- 🐍 python
+- 📄 html
+- 🎨 css
+- 🐚 shell
+
+languages on my to-learn list:
+
+- 🦀 rust
+- ☕ java
+- 🟨 javascript
+
+#### contact
+
+if you wanna contact me
+
+#### ✨ a few stats!
+
+[![nyxion's github stats](https://github-readme-stats.vercel.app/api?username=nyxion-luna&show_icons=true&theme=catppuccin_mocha&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyxion-luna&layout=compact&theme=catppuccin_mocha&hide_border=true)
