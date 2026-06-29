@@ -6,10 +6,10 @@ currently, I'm working on my [pmm updater program](https://github.com/nyxion-lun
 <a href='https://github.com/nyxion-luna/pmm'>
   <picture>
     <source
-        srcset="./cards/pmm-pin.svg"
-        media="(prefers-color-scheme: dark)"
+        srcset='./cards/pmm-pin.svg'
+        media='(prefers-color-scheme: dark)'
     />
-    <img src="./cards/pmm-pin.light.svg" />
+    <img src='./cards/pmm-pin.light.svg' />
   </picture>
 </a>
 
@@ -45,22 +45,22 @@ languages on my to-learn list:
 
 <picture>
   <source
-    srcset="./cards/stats.svg"
-    media="(prefers-color-scheme: dark)"
+    srcset='./cards/stats.svg'
+    media='(prefers-color-scheme: dark)'
   />
   <img
-    style="height: 6.5vw"
-    src="./cards/stats.light.svg"
+    height='165'
+    src='./cards/stats.light.svg'
   />
 </picture>
 <picture>
   <source
-    srcset="./cards/top-langs.svg"
-    media="(prefers-color-scheme: dark)"
+    srcset='./cards/top-langs.svg'
+    media='(prefers-color-scheme: dark)'
   />
   <img
-    style="height: 6.5vw"
-    src="./cards/top-langs.light.svg"
+    height='165'
+    src='./cards/top-langs.light.svg'
   />
 </picture>
 
