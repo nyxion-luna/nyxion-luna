@@ -49,7 +49,7 @@ languages on my to-learn list:
     media="(prefers-color-scheme: dark)"
   />
   <img
-    height="170"
+    style="height: 6.5vw"
     src="./cards/stats.light.svg"
   />
 </picture>
@@ -59,7 +59,7 @@ languages on my to-learn list:
     media="(prefers-color-scheme: dark)"
   />
   <img
-    height="170"
+    style="height: 6.5vw"
     src="./cards/top-langs.light.svg"
   />
 </picture>
