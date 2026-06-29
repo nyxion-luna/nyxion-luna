@@ -29,9 +29,9 @@ languages on my to-learn list:
 ### 💻 my setup
 
 - 🐧 [kUbuntu](https://kubuntu.org/) (if you're using Windows and wanna switch, check out [distrochooser](https://distrochooser.de/))
-- 🐱 [kitty](https://github.com/kovidgoyal/kitty)
-- 🐟 [fish shell](https://github.com/fish-shell/fish-shell)
-- 🌐 [zen browser](https://github.com/zen-browser) with [sine](https://github.com/CosmoCreeper/Sine), a theme manager.
+- 🐱 [kitty](https://sw.kovidgoyal.net/kitty/)
+- 🐟 [fish shell](https://fishshell.com/)
+- 🌐 [zen browser](https://zen-browser.app/) with [sine](https://github.com/CosmoCreeper/Sine), a theme manager.
 
 ### 🌙 interests
 
@@ -43,27 +43,31 @@ languages on my to-learn list:
 
 ### ✨ a few stats!
 
-<picture>
-  <source
-      srcset="./cards/stats.svg"
-      media="(prefers-color-scheme: dark)"
-  />
-  <img 
-      height="200"
-      align="center"
-      src="./cards/stats.light.svg"
-  />
-</picture>
-<picture>
-  <source
-      srcset="./cards/top-langs.svg"
-      media="(prefers-color-scheme: dark)"
-  />
-  <img 
-      height="200"
-      align="center"
-      src="./cards/top-langs.light.svg"
-  />
-</picture>
+<a>
+  <picture>
+    <source
+        srcset="./cards/stats.svg"
+        media="(prefers-color-scheme: dark)"
+    />
+    <img 
+        height="200"
+        align="center"
+        src="./cards/stats.light.svg"
+    />
+  </picture>
+</a>
+<a>
+  <picture>
+    <source
+        srcset="./cards/top-langs.svg"
+        media="(prefers-color-scheme: dark)"
+    />
+    <img 
+        height="200"
+        align="center"
+        src="./cards/top-langs.light.svg"
+    />
+  </picture>
+</a>
 
 🛈 thanks to [github-stats-extended](https://github.com/stats-organization/github-stats-extended/) for the [cards generator action](https://github.com/stats-organization/github-readme-stats-action)
