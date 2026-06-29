@@ -3,7 +3,7 @@
 hey 👋 :D! I'm nyxion! I'm a dev who enjoys coding stuff that pops into my head.
 currently, I'm working on my [pmm updater program](https://github.com/nyxion-luna/pmm).
 
-[![readme card](https://github-readme-stats.vercel.app/api/pin/?username=nyxion-luna&repo=pmm&theme=catppuccin_mocha&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![readme card](https://github-stats-extended.vercel.app/api/pin/?username=nyxion-luna&repo=pmm&theme=catppuccin_mocha&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 languages I know:
 
@@ -30,9 +30,9 @@ languages on my to-learn list:
 - linux & customization
 - game design & gaming
 - open source software
-- automation & terminal tools
+- automation & coding
 - making digital art
 
 ### ✨ a few stats!
 
-[![nyxion's github stats](https://github-readme-stats.vercel.app/api?username=nyxion-luna&show_icons=true&theme=catppuccin_mocha&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyxion-luna&layout=compact&theme=catppuccin_mocha&hide_border=true)
+[![nyxion's github stats](https://github-stats-extended.vercel.app/api?username=nyxion-luna&show_icons=true&theme=catppuccin_mocha&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)![top langs](https://github-stats-extended.vercel.app/api/top-langs/?username=nyxion-luna&layout=compact&theme=catppuccin_mocha&hide_border=true)
