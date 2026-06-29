@@ -20,7 +20,7 @@ languages on my to-learn list:
 
 ### 💻 my setup
 
-- 🐧 [kUbuntu](https://kubuntu.org/) (never going back to Windows)
+- 🐧 [kUbuntu](https://kubuntu.org/) (if you're using Windows and wanna switch, check out [distrochooser](https://distrochooser.de/))
 - 🐱 [kitty](https://github.com/kovidgoyal/kitty)
 - 🐟 [fish shell](https://github.com/fish-shell/fish-shell)
 - 🌐 [zen browser](https://github.com/zen-browser) with [sine](https://github.com/CosmoCreeper/Sine), a theme manager.
