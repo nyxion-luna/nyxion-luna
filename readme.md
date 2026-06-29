@@ -43,32 +43,26 @@ languages on my to-learn list:
 
 ### ✨ a few stats!
 
-<p align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=anuraghazra">
-    <picture>
-      <source
-        srcset="./cards/stats.svg"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img
-        height="200"
-        src="./cards/stats.light.svg"
-      />
-    </picture>
-  </a>
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320">
-    <picture>
-      <source
-        srcset="./cards/top-langs.svg"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img
-        height="200"
-        src="./cards/top-langs.light.svg"
-      />
-    </picture>
-  </a>
-</p>
+<picture>
+  <source
+    srcset="./cards/stats.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    height="170"
+    src="./cards/stats.light.svg"
+  />
+</picture>
+<picture>
+  <source
+    srcset="./cards/top-langs.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    height="170"
+    src="./cards/top-langs.light.svg"
+  />
+</picture>
 
 
 🛈 thanks to [github-stats-extended](https://github.com/stats-organization/github-stats-extended/) for the [cards generator action](https://github.com/stats-organization/github-readme-stats-action)
